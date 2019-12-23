@@ -3,7 +3,7 @@
 ![image](https://github.com/achinwoo/TF-KIT/tree/master/DOC/tf_kit.jpg)
 
 人工智能时代来临，嵌入式开发迎来新挑战，现在AI 的大潮势不可挡，最为著名谷歌开源的tensorflow 加快了深度神经学习框架，
-成为当今新的一股热流。为此TF-KIT 开发板应运而生！
+成为当今新的一股热流。TF-KIT 开发板应运而生！
 
 1.采用了ARM®Cortex®-M4 主控内核，160MHZ 448K SRAM，资源丰富，
 I2S*2,SDIO,UART*2,SPI,HSPI,SDCARD,USB-HOST,USB-DEVICE 等丰富接口。
