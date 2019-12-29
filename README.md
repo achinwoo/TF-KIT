@@ -2,7 +2,7 @@
 
 ![image](https://github.com/achinwoo/TF-KIT/blob/master/DOC/tf_kit.jpg)
 
-   TF-KIT 开发板！ 支持最为著名谷歌开源的tensorflow 模型量化，方便加快了深度神经学习框架。
+   **TF-KIT 开发板** 支持最为著名谷歌开源的tensorflow 模型量化，方便加快了深度神经学习框架。
 
 
 1.采用了ARM®Cortex®-M4 主控内核，160MHZ 448K SRAM，资源能力，
