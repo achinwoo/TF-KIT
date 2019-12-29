@@ -1,6 +1,6 @@
 # RDA5981_TF-KIT_RTOS_SDK #
 
-![image](https://github.com/achinwoo/TF-KIT/tree/master/DOC/tf_kit.jpg)
+![image](https://github.com/achinwoo/TF-KIT/blob/master/DOC/tf_kit.jpg)
 
 人工智能时代来临，嵌入式开发迎来新挑战，现在AI 的大潮势不可挡，最为著名谷歌开源的tensorflow 加快了深度神经学习框架，
 成为当今新的一股热流。TF-KIT 开发板应运而生！
