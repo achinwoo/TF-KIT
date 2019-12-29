@@ -5,8 +5,8 @@
    TF-KIT 开发板！ 支持最为著名谷歌开源的tensorflow 模型量化，方便加快了深度神经学习框架。
 
 
-1.采用了ARM®Cortex®-M4 主控内核，160MHZ 448K SRAM，资源丰富，
-I2S*2,SDIO,UART*2,SPI,HSPI,SDCARD,USB-HOST,USB-DEVICE 等丰富接口。
+1.采用了ARM®Cortex®-M4 主控内核，160MHZ 448K SRAM，资源能力，
+I2S*2,SDIO,UART*2,SPI,HSPI,SDCARD,USB-HOST,USB-DEVICE 等接口。
 
 2.外接CODEC 芯片，双声道MEMS MIC 输入，耳机，支持3W 喇叭输出。
 
